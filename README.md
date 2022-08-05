@@ -1,6 +1,6 @@
 # Lottery Smart Contract
 
-A decentralized lottery system in which multiple users can join and one of them would be randomly selected as a winner.
+A decentralized lottery system in which multiple users can join and one of them would be randomly selected as a winner after a certain time period.
 
 Front End with nextjs : [nextjs-smartcontract-lottery](https://github.com/Ahmed-Aghadi/nextjs-smartcontract-lottery)
 
